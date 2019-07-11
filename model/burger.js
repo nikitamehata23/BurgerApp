@@ -2,7 +2,7 @@ const connection = require('../config/connection.js');
 
 // CRUD
 let orm = {
-
+                                                                         
 	createNew: function(newBurger, cb) {
 		let obj = newBurger;
 
