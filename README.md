@@ -20,16 +20,18 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 To run the application locally, first clone this repository with the following command.
 
-	git clone git@github.com:angrbrd/eat-da-burger.git
+	git@github.com:nikitamehata23/BurgerApp.git
 	
 Next, install the application dependencies.
 
 	cd eat-da-burger
 	npm install
+	npm install express
+	npm install express-handlebars
 	
 Finally, run the node server locally.
 
-	node server
+	node server.js
 	
 Now, open the local application on port 3000 at the URL: `http://localhost:3000/`.
 
