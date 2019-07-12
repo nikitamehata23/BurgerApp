@@ -2,7 +2,7 @@
 body {
     font-family: 'Germania One', cursive;
     width: 100%;
-    background-image: url('../img/Burger%20background.jpg');
+    background-image: url('http://assets.marthastewart.com/styles/wmax-520-highdpi/d23/med102963_0607_tburgers/med102963_0607_tburgers_vert.jpg?itok=87PazvSd');
 }
 
 h1 {
@@ -34,4 +34,34 @@ li {
 #add {
     clear: both;
     margin-left: 25%;
+}
+
+.btn-warning {
+    display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:rgb(9, 9, 80);
+  border: none;
+  border-radius: 15px;
+  box-shadow: black;
+}
+
+.btn-primary {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color:rgb(9, 9, 80);
+    border: none;
+    border-radius: 15px;
+    box-shadow: black;
 }
