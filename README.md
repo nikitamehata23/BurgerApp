@@ -28,6 +28,7 @@ Next, install the application dependencies.
 	npm install
 	npm install express
 	npm install express-handlebars
+	npm install mySql
 	
 Finally, run the node server locally.
 
